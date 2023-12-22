@@ -1,0 +1,18 @@
+{
+    "devices": [
+        {
+            "Cutter":[
+                {
+                    "Temperature": [2,20],
+                    "Pressure": [6,56]
+                }
+            ],
+            "Slicer":[
+                {
+                    "Temperature": [2,20],
+                    "Pressure": [6,56]
+                }
+            ]
+        }
+    ]
+}
